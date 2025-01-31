@@ -1,11 +1,8 @@
 <h1 align="center">
-    Lunar Client Qt 2
-    <a href="https://discord.gg/mjvm8PzB2u">
-        <img src=".github/assets/discord.svg" alt="discord" height="32" style="vertical-align: -5px;"/>
-    </a>
+    Lunar Client QT 2 Fork
 </h1>
 <p align="center">
-    <strong>Continuation of the original <a href="https://github.com/nilsen84/lunar-client-qt">lunar-client-qt</a> </br> Moved to a new repo because of the complete rewrite and redesign.</strong>
+    <strong>Continuation of the original <a href="https://github.com/nilsen84/lcqt2">lunar-client-qt 2</a> made by Nilsen84 </br></strong>
 </p>
 <p align="center">
     <img align=center src=".github/assets/screenshot.png" width="600" alt="screenshot of lcqt"></br>
@@ -18,7 +15,7 @@
   - Hypixel / Other Servers: LCQT does not send any information to the server. As long as you don't abuse any disabled mods (e.g chat macros) you will not be banned.
 
   **Q: What patches are included in the lcqt2 agent?** </br>
-  A: In case this goes out of date you can find them [here](https://github.com/Nilsen84/lcqt2/tree/master/agent/src/main/kotlin/io/github/nilsen84/lcqt/patches).  </br>
+  A: In case this goes out of date you can find them [here](https://github.com/br0k3V/lcqt2/tree/master/agent/src/main/kotlin/io/github/nilsen84/lcqt/patches).  </br>
     *However:*  </br>
   - Cosmetics Unlocker: Unlocks cosmetics for paid Minecraft users.
   - Cracked Account: Allows Cracked Accounts to be used.
