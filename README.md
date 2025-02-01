@@ -62,6 +62,8 @@ Use the AUR package: [lunar-client-qt2](https://aur.archlinux.org/packages/lunar
   - Rust Nightly
   - NPM
 
+
+
   #### Building
   LCQT2 is made up of 3 major components:
   - The injector - responsible for locating the launcher executable and injecting a javascript patch into it
@@ -77,5 +79,9 @@ Use the AUR package: [lunar-client-qt2](https://aur.archlinux.org/packages/lunar
   $ ./gradlew run # equivalent to ./gradlew installDist && './build/install/lcqt2/Lunar Client Qt'
   ```
   > `./gradlew installDebugDist` and `./gradlew runDebug` do the same thing except they build the rust injector in debug mode.
+
+ gradlew is included in the source code.
+ Couldn't build the project myself so if you want to try then give it a go.
+ I've already fixed the locations in the code, just need to build it
 
 ###### Copyright © 2023 Nilsen84 - [License](https://raw.githubusercontent.com/Nilsen84/lcqt2/master/LICENSE)
